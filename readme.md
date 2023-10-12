@@ -5,7 +5,6 @@
 
 [10:31] Julien (Invité)
 
-<iframe title="Report Section" width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNmE5NmEzMmQtMTIyMS00OTFlLWFjMTEtYjU4NzA4NGExZGYwIiwidCI6IjgxODU3Mjg4LWFhMTMtNDc0ZS1hYjZiLWFlMjgzOGNmZWRlMyJ9" frameborder="0" allowfullscreen="true"></iframe>
 
 
 This repository contains the hands-on lab exercises for Microsoft course [PL-300: Microsoft Power BI Data Analyst](https://docs.microsoft.com/en-us/learn/certifications/courses/PL-300T00). The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
